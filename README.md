@@ -1,1 +1,1 @@
-# two-scoops-of-django
+# Two Scoops Of Django:  Notes and Exercises
